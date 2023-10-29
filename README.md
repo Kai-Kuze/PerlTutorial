@@ -20,6 +20,7 @@ Perlの練習として、Googleのトップページからタイトルを取得�
       $ unzip chromedriver_linux64.zip
       $ sudo mv chromedriver /usr/local/bin/
       $ sudo chmod +x /usr/local/bin/chromedriver
-      
+      ### ★スクリプト実行：<br>
+      $./[スクリプト名].pl
 
       
