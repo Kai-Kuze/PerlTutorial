@@ -1,6 +1,6 @@
 # PerlTutorial
-PerlでSeleniumスクレイピング<br>
-Perlの練習として、Googleのトップページからタイトルを取得してみる。<br>
+PerlでSeleniumを用いたスクレイピング<br>
+Perlの練習として、Googleのトップページからタイトルを取得してみる。（今後機能拡張していく予定）<br>
 ## 環境：<br>
   OS：Ubuntu 22.04.3 LTS<br>
   ### ★Seleniumインストール手順：<br>
