@@ -1,6 +1,6 @@
 # PerlTutorial
 PerlでSeleniumを用いたスクレイピング<br>
-Perlの練習として、Googleのトップページからタイトルを取得してみる。（今後機能拡張していく予定）<br>
+Perlの練習として、Seleniumを使用したWeb操作をしてみる。（少しづつ機能更新・スクリプト追加）<br>
 参考：<br>
       https://www.kent-web.com/perl/chap1.html#chap1_2<br>
       https://qiita.com/jiey@github/items/c85cff47bea8524aef27<br>
