@@ -20,7 +20,15 @@ Perlの練習として、Googleのトップページからタイトルを取得�
       $ unzip chromedriver_linux64.zip
       $ sudo mv chromedriver /usr/local/bin/
       $ sudo chmod +x /usr/local/bin/chromedriver
+### ★修正：<br>
+      #Seleniumサーバをインストール・起動して実行するように変更
+      #Seleniumサーバをインストール
+        https://www.selenium.dev/downloads/
+      #Seleniumサーバ起動
+      $ java -jar selenium-server-4.14.1.jar standalone
+
+
+      
 ### ★スクリプト実行：<br>
       $./[スクリプト名].pl
-
       
