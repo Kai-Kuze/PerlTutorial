@@ -17,4 +17,5 @@ while (!$url){
 
 $driver->get($url);
 print $driver->get_title()."\n";
+
 $driver->shutdown_binary();
