@@ -26,6 +26,11 @@ Perlの練習として、Googleのトップページからタイトルを取得�
         https://www.selenium.dev/downloads/
       #Seleniumサーバ起動
       $ java -jar selenium-server-4.14.1.jar standalone
+### ★Googleで"perl tutorial"を検索し結果を表示
+      NewTest.plを実行
+            $ ./NewTest.pl
+### ★目標
+      google検索ー＞ウェブサイト巡回ー＞スクリーンショット撮影・保存
 
 
       
