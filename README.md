@@ -7,6 +7,7 @@ Perlの練習として、Seleniumを使用したWeb操作をしてみる。（�
 参考：<br>
       https://www.kent-web.com/perl/chap1.html#chap1_2<br>
       https://qiita.com/jiey@github/items/c85cff47bea8524aef27<br>
+      http://www.nct9.ne.jp/m_hiroi/linux/perl.html<br>
 ## 環境：<br>
   OS：Ubuntu 22.04.3 LTS<br>
   ### ★Seleniumインストール手順：<br>
